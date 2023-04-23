@@ -1,0 +1,9 @@
+.container
+{
+  display: flex;
+  margin-top: 7px;
+  height: 76vh;
+}
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
